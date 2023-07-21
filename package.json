@@ -1,4 +1,5 @@
 {
+  "name": "region",
   "type": "module",
   "dependencies": {
     "js-pinyin": "^0.2.4",
