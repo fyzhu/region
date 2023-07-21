@@ -1,0 +1,172 @@
+[
+  {
+    "areaId": 1,
+    "name": "北京",
+    "parentId": 4744
+  },
+  {
+    "areaId": 4,
+    "name": "重庆",
+    "parentId": 4744
+  },
+  {
+    "areaId": 16,
+    "name": "福建",
+    "parentId": 4744
+  },
+  {
+    "areaId": 24,
+    "name": "贵州",
+    "parentId": 4744
+  },
+  {
+    "areaId": 19,
+    "name": "广东",
+    "parentId": 4744
+  },
+  {
+    "areaId": 20,
+    "name": "广西",
+    "parentId": 4744
+  },
+  {
+    "areaId": 28,
+    "name": "甘肃",
+    "parentId": 4744
+  },
+  {
+    "areaId": 52993,
+    "name": "港澳",
+    "parentId": 4744
+  },
+  {
+    "areaId": 5,
+    "name": "河北",
+    "parentId": 4744
+  },
+  {
+    "areaId": 7,
+    "name": "河南",
+    "parentId": 4744
+  },
+  {
+    "areaId": 17,
+    "name": "湖北",
+    "parentId": 4744
+  },
+  {
+    "areaId": 18,
+    "name": "湖南",
+    "parentId": 4744
+  },
+  {
+    "areaId": 23,
+    "name": "海南",
+    "parentId": 4744
+  },
+  {
+    "areaId": 10,
+    "name": "黑龙江",
+    "parentId": 4744
+  },
+  {
+    "areaId": 12,
+    "name": "江苏",
+    "parentId": 4744
+  },
+  {
+    "areaId": 21,
+    "name": "江西",
+    "parentId": 4744
+  },
+  {
+    "areaId": 9,
+    "name": "吉林",
+    "parentId": 4744
+  },
+  {
+    "areaId": 8,
+    "name": "辽宁",
+    "parentId": 4744
+  },
+  {
+    "areaId": 53283,
+    "name": "海外",
+    "parentId": 4744
+  },
+  {
+    "areaId": 11,
+    "name": "内蒙古",
+    "parentId": 4744
+  },
+  {
+    "areaId": 30,
+    "name": "宁夏",
+    "parentId": 4744
+  },
+  {
+    "areaId": 29,
+    "name": "青海",
+    "parentId": 4744
+  },
+  {
+    "areaId": 13,
+    "name": "山东",
+    "parentId": 4744
+  },
+  {
+    "areaId": 6,
+    "name": "山西",
+    "parentId": 4744
+  },
+  {
+    "areaId": 2,
+    "name": "上海",
+    "parentId": 4744
+  },
+  {
+    "areaId": 27,
+    "name": "陕西",
+    "parentId": 4744
+  },
+  {
+    "areaId": 22,
+    "name": "四川",
+    "parentId": 4744
+  },
+  {
+    "areaId": 3,
+    "name": "天津",
+    "parentId": 4744
+  },
+  {
+    "areaId": 32,
+    "name": "台湾",
+    "parentId": 4744
+  },
+  {
+    "areaId": 26,
+    "name": "西藏",
+    "parentId": 4744
+  },
+  {
+    "areaId": 31,
+    "name": "新疆",
+    "parentId": 4744
+  },
+  {
+    "areaId": 25,
+    "name": "云南",
+    "parentId": 4744
+  },
+  {
+    "areaId": 15,
+    "name": "浙江",
+    "parentId": 4744
+  },
+  {
+    "areaId": 14,
+    "name": "安徽",
+    "parentId": 4744
+  }
+]

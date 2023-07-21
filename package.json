@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "js-pinyin": "^0.2.4",
+    "pinyin": "3.0.0-alpha.5"
+  }
+}
